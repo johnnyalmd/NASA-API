@@ -1,0 +1,6 @@
+[submodule "setup/static"]
+	path = setup/static
+	url = https://github.com/johnnyalmd/NASA-API
+[submodule "templates"]
+	path = templates
+	url = https://github.com/johnnyalmd/NASA-API
